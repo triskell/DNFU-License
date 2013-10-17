@@ -1,0 +1,14 @@
+This software is under "DO NOT FORGET US" Licence (Revision 1) :
+
+<your identity here> wrote the original file.
+As long as you retain this notice and you add your name and the adress of your project in the list below, you can do whatever you want with this stuff.
+If you meet one (or more) of the authors some day, and you think this stuff is worth it, you can buy him (or them) a coffee (or what you want) in return.
+
+- ORIGINAL PROJECT : 
+		<your identity here>, <date here>
+		<project adress here>
+
+<Others forkers list here...>
+
+
+This software is provided as-is, without any warranty. You are the only resposible with your use of these software, and author(s) can not be liable for any claim.
